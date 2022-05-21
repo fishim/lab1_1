@@ -1,0 +1,66 @@
+[33mcommit 23c430c495f682743ccddcedf51d64354c58a78d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Merge: 9b658fb 4f7d2d8
+Author: Karas <roxyman2028@gmail.com>
+Date:   Sat May 21 22:07:28 2022 +0300
+
+    Вирішення конфлікту
+
+[33mcommit 4f7d2d82a420e8d56b7408d9f65ed42e5fb14f78[m[33m ([m[1;32mbar-update[m[33m)[m
+Author: Karas <roxyman2028@gmail.com>
+Date:   Sat May 21 22:01:13 2022 +0300
+
+    Проблемні зміни2
+
+[33mcommit 9b658fbacb886819934ecf4c5c0db1413576f728[m
+Author: Karas <roxyman2028@gmail.com>
+Date:   Sat May 21 21:59:17 2022 +0300
+
+    Ці зміни
+
+[33mcommit d74b03909b0ef11ec06c0b675997d4b04156563f[m
+Author: Karas <roxyman2028@gmail.com>
+Date:   Sat May 21 21:51:15 2022 +0300
+
+    Проблемні зміни
+
+[33mcommit efafb125095cd91da02943f45ca6d12301b1c229[m
+Author: Karas <roxyman2028@gmail.com>
+Date:   Sat May 21 21:38:30 2022 +0300
+
+    Зміна у файлі на гільці update1
+
+[33mcommit 584793bbb22fe6ac9706d1f8a4ff056aa05a89cc[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:42:44 2022 +0300
+
+    new file MJS
+
+[33mcommit 8ea830f2438971fcd307ab47d0663a95d1aab90c[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:39:22 2022 +0300
+
+    deleting JJS.txt
+
+[33mcommit 0f12c07252037a187d70e2fb35f0e64d0fdcc72c[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:37:24 2022 +0300
+
+    Renaming JS.txt
+
+[33mcommit 80e1311a84c6e3d24c58e691a3392f7ca2899651[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:22:59 2022 +0300
+
+    Зміни в JS
+
+[33mcommit cc68639f7007161b49a4646c4498bc0f41021c2a[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:14:41 2022 +0300
+
+    Додавання до репозиторію Lab1 файлу Max.txt
+
+[33mcommit 176b1412d146fa77ccd21b96d1138a47ad1bfb80[m
+Author: Максим Карась <roxyman2028@gmail.com>
+Date:   Sat May 21 18:06:45 2022 +0300
+
+    My First File in Lab1 Repository
